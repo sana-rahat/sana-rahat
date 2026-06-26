@@ -1,6 +1,6 @@
 # Hi there, I'm Sana Ashfaq Rahat! 👋
 
-🎓 BS Cyber Forensics & Security Student @ Air University Islamabad  
+🎓 BS Cyber Security Student @ Air University Islamabad  
 🔐 Passionate about AI, Machine Learning & Digital Forensics  
 ☁️ Currently learning: Microsoft Azure AI (AI-900)  
 📍 Islamabad, Pakistan  
@@ -13,9 +13,13 @@
 |---|---|
 | **Languages** | C++, Python (Learning) |
 | **Cybersecurity** | Network Security, Digital Forensics |
+| **Forensic Tools** | Autopsy, Wireshark, Nmap, SET Toolkit |
+| **Networking** | Cisco Packet Tracer, Nmap |
+| **Virtualization** | VMware, Oracle VirtualBox, Metasploitable |
 | **Cloud** | Microsoft Azure (Learning) |
 | **Tools** | Git, GitHub, VS Code, Linux |
-| **Concepts** | OOP, Data Structures, Computer Networks |
+| **Concepts** | OOP (C++), Data Structures, Computer Networks |
+| **Software Engineering** | SDLC Models, UML Diagrams |
 
 ---
 
