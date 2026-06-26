@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Sana Ashfaq Rahat! 👋
 
-<!--
-**sana-rahat/sana-rahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Cyber Security Student @ Air University Islamabad  
+🔐 Passionate about AI, Machine Learning & Digital Forensics  
+☁️ Currently learning: Microsoft Azure AI (AI-900)  
+📍 Islamabad, Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Languages** | C++, Python (Learning) |
+| **Cybersecurity** | Network Security, Digital Forensics |
+| **Cloud** | Microsoft Azure (Learning) |
+| **Tools** | Git, GitHub, VS Code, Linux |
+| **Concepts** | OOP, Data Structures, Computer Networks |
+
+---
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sana-ashfaq-rahat-447671386)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sanarahat001@gmail.com)
+
+---
+⭐ *"Consistency is the key to success"* ⭐
