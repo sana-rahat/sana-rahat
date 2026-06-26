@@ -1,6 +1,6 @@
 # Hi there, I'm Sana Ashfaq Rahat! 👋
 
-🎓 BS Cyber Security Student @ Air University Islamabad  
+🎓 BS Cyber Forensics & Security Student @ Air University Islamabad  
 🔐 Passionate about AI, Machine Learning & Digital Forensics  
 ☁️ Currently learning: Microsoft Azure AI (AI-900)  
 📍 Islamabad, Pakistan  
